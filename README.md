@@ -98,5 +98,6 @@ CONNECT：HTTP/1.1协议中预留给能够将连接改为管道方式的代理�
 
 原理请看我之前的文章:
 
-[Retrofit 源码解读之离线缓存策略的实现]: http://www.jianshu.com/p/3a8d910cce38
+| [Retrofit 源码解读之离线缓存策略的实现](http://www.jianshu.com/p/3a8d910cce38)
+
 
